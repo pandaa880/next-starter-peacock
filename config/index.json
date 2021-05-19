@@ -1,16 +1,16 @@
 {
   "author": {
-    "name": "Peacock",
-    "title": "NextJS Starter Peacock",
-    "twitterHandle": "@vick_onrails",
-    "description": "Hi! My name is <a href='/'>Victor</a>, I love to design and build modern experiences on the web. I also love learning in public and working on little side projects that help others build things faster. This starter is my gift to you and I hope it helps somehow 🙏🏾"
+    "name": "Prashant",
+    "title": "Hi there, Welcome to my online space 🌌",
+    "twitterHandle": "@pandaa880",
+    "description": "My name is <b href='/'>Prashant</b>. I have more than <b>2.5 years of experience</b>. I am <b>self taught developer</b> and currently working as a <b>Software Engineer, UI</b>. I build modern web applications using <a href=''>ReactJS</a> & Friends (Redux, Immutable, SCSS, Storybook, Jest and React Testing Library)"
   },
   "site": {
     "siteUrl": "http://next-starter-peacock.vercel.app/",
-    "siteName": "Peacock",
-    "siteTitle": "NextJS Starter Peacock",
-    "siteDescription": "Peacock is a Nextjs starter for Personal Sites/Portfolios made by @vick_onrails",
-    "keywords": "JavaScript, NextJS, Software Engineer, Nigeria Software Engineer, Lagos Software Engineer, JavaScript Engineer Nigeria, ReactJS Engineer Nigeria, Product Designer Nigeria, Victor Ofoegbu",
+    "siteName": "Prashant",
+    "siteTitle": "Prashant - Online space",
+    "siteDescription": "Prashant is a Frontend Engineer with more than 2.5 years of experience. He works with React, Redux, Storybook, HTML, CSS & JavaScript to build web applications.",
+    "keywords": "JavaScript, NextJS, Software Engineer, UI Engineer, Frontend Developer, Frontend Engineer, India Software Engineer, India Software Engineer, JavaScript Engineer India, ReactJS Engineer India, ReactJS Developer, MERN Developer, Prashant Chaudhari",
     "siteImage": "../public/Logo.png"
   }
 }

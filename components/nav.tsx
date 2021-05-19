@@ -32,11 +32,11 @@ const Nav = () => {
             ></StyledHamburger>
 
             <ul className="navLinkList">
-              <li className="navLinkItem">
+              {/* <li className="navLinkItem">
                 <Link href="/works">
                   <a>Work</a>
                 </Link>
-              </li>
+              </li> */}
               <li className="navLinkItem">
                 <Link href="/articles">
                   <a>Articles</a>
@@ -47,13 +47,13 @@ const Nav = () => {
                   <a>Notes</a>
                 </Link>
               </li>
-              <li className="navLinkItem">
+              {/* <li className="navLinkItem">
                 <Link href="/about">
                   <a>About</a>
                 </Link>
-              </li>
+              </li> */}
 
-              <li className="navLinkItem">
+              {/* <li className="navLinkItem">
                 <a
                   href={`${SiteConfig.site.siteUrl}/rss.xml`}
                   target="_blank"
@@ -61,7 +61,7 @@ const Nav = () => {
                 >
                   RSS Feed
                 </a>
-              </li>
+              </li> */}
             </ul>
           </div>
         </nav>

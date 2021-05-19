@@ -5,6 +5,9 @@ export const StyledHomeHeading = styled.div`
     .header-container {
       max-width: 70%;
     }
+    .welcome-text {
+      font-size: 3rem;
+    }
     .description {
       font-size: 1.2em;
     }

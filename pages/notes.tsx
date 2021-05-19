@@ -20,6 +20,9 @@ const Notes = ({ notes }) => {
           into and don't want to forget.
         </p>
 
+        {/* <blockquote>
+          I am working on this part. It is not ready yet. 📝
+        </blockquote> */}
         <NotesComponent notes={notes} basePath="notes" />
         {/* <Cards data={notes} basePath="notes" /> */}
       </Container>
