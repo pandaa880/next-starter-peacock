@@ -20,10 +20,9 @@ const Articles = ({ articles }) => {
         </p>
 
         <blockquote>
-          All articles here are for demo purposes. But hey, the sky is the limit
-          🚀
+          I am working on this part. It is not ready yet. 📝
         </blockquote>
-        <Cards data={articles} basePath="articles" />
+        {/* <Cards data={articles} basePath="articles" /> */}
       </Container>
     </Layout>
   );

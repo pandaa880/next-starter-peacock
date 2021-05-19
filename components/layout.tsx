@@ -82,7 +82,7 @@ const Layout = ({
         <MobileNav />
       ) : (
         <>
-          <Header pathname={pathname} title={pageTitle} />
+          {/* <Header pathname={pathname} title={pageTitle} /> */}
           <StyledMain>{children}</StyledMain>
           <Footer />
         </>
