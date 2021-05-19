@@ -3,7 +3,7 @@
     "name": "Prashant",
     "title": "Hi there, Welcome to my online space 🌌",
     "twitterHandle": "@pandaa880",
-    "description": "My name is <b href='/'>Prashant</b>. I have more than <b>2.5 years of experience</b>. I am <b>self taught developer</b> and currently working as a <b>Software Engineer, UI</b>. I build modern web applications using <a href=''>ReactJS</a> & Friends (Redux, Immutable, SCSS, Storybook, Jest and React Testing Library)"
+    "description": "My name is <b href='/'>Prashant</b>. I have more than <b>2.5 years of experience</b>. I am <b>self taught developer</b> and currently working as a <b>Software Engineer, UI</b>. I build modern web applications using <b>ReactJS & Friends (Redux, Immutable, SCSS, Storybook, Jest and React Testing Library)</b>"
   },
   "site": {
     "siteUrl": "http://next-starter-peacock.vercel.app/",
