@@ -14,11 +14,11 @@ const MobileNav = () => {
             </Link>
           </li>
 
-          <li className="listItem">
+          {/* <li className="listItem">
             <Link href="/works">
               <a className="link">Works</a>
             </Link>
-          </li>
+          </li> */}
 
           <li className="listItem">
             <Link href="/articles">
@@ -32,7 +32,7 @@ const MobileNav = () => {
             </Link>
           </li>
 
-          <li className="listItem">
+          {/* <li className="listItem">
             <Link href="/about">
               <a className="link">About</a>
             </Link>
@@ -46,7 +46,7 @@ const MobileNav = () => {
             >
               Source
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
     </StyledMobileNav>
