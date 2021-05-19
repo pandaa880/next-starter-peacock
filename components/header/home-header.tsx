@@ -13,12 +13,6 @@ const HomeHeader = () => (
           className="description"
           dangerouslySetInnerHTML={{ __html: siteConfig.author.description }}
         />
-        <p
-          className="description"
-          dangerouslySetInnerHTML={{
-            __html: siteConfig.author.additional_description,
-          }}
-        />
       </div>
     </Container>
   </StyledHomeHeading>
