@@ -16,7 +16,7 @@ I am starting my writing journey from today. I wish I can help you and learn fro
 
 I am a Frontend Engineer by profession and I am a self taught. Till now I have learned from internet as much as I can and I think it is time to give back to the community. I hope my future articles will help you 🤞. I plan to write about Frontend in general and a little bit about Rust as well. Let's see how this goes.
 
-I want to thank you [Victor Ofoegbu](https://victorofoegbu.com/) for creating and sharing this beautiful starter pack. As I am in the process of creating my personal site design I wanted to quickly setup something and I really like this starter pack that Victor made.
+I want to thank you <a href="https://github.com/vickOnRails" target="_blank">Victor Ofoegbu</a> for creating and sharing this beautiful <a href="https://github.com/vickOnRails/next-starter-peacock" target="_blank">starter pack</a>. As I am in the process of creating my personal site design I wanted to quickly setup something and I really like this starter pack that Victor made.
 
 Thank you for reading. See you soon ! 😀
 
