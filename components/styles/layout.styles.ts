@@ -3,14 +3,6 @@ import styled from "@emotion/styled";
 export const StyledMain = styled.main`
   min-height: calc(100vh - 350px);
   margin-bottom: 2em;
-
-  .welcome-text {
-    font-size: 2.5rem;
-  }
-
-  .description {
-    font-size: 1.2em;
-  }
 `;
 
 export const PostContent = styled.section`
